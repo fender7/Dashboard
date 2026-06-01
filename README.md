@@ -1,4 +1,4 @@
-An interactive dashboard to track metrics like YoY/MoM/QoQ sales, comparison between quantity of items sold, etc temporarily and spatially.
+An intelligent dashboard to track metrics like YoY/MoM/QoQ sales, comparison between quantity of items sold, etc temporarily and spatially.
 
 
 <img width="1920" height="1080" alt="Screenshot (240)" src="https://github.com/user-attachments/assets/fefdb112-3228-4818-9ffa-0b2a4423a40d" />
