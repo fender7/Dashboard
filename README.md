@@ -1,11 +1,7 @@
-An interactive dashboard to track metrics like YoY/MoM/QoQ sales, comparison between quantity of items sold, etc region-wise and state-wise.
-
-<img width="1659" height="731" alt="Screenshot 2026-06-01 145907" src="https://github.com/user-attachments/assets/af2329a9-95ec-4ad2-a311-b7d5a986438d" />
+An interactive dashboard to track metrics like YoY/MoM/QoQ sales, comparison between quantity of items sold, etc temporarily and spatially.
 
 
-https://github.com/user-attachments/assets/259e2da6-621d-47d1-ad18-74ef407e5ecc
-
-
+<img width="1920" height="1080" alt="Screenshot (240)" src="https://github.com/user-attachments/assets/fefdb112-3228-4818-9ffa-0b2a4423a40d" />
 
 Tools used:
 
@@ -16,4 +12,9 @@ Tools used:
 3.Slicers
 
 Original data available in the repository. 
+
+
+https://github.com/user-attachments/assets/b8d5dc64-01a5-4803-9065-3de96b5f3253
+
+
 
